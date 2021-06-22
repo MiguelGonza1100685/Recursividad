@@ -1,0 +1,16 @@
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\Recursividad_interativa.exe
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\Recursividad_interativa.deps.json
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\Recursividad_interativa.runtimeconfig.json
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\Recursividad_interativa.runtimeconfig.dev.json
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\Recursividad_interativa.dll
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\ref\Recursividad_interativa.dll
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\bin\Debug\net5.0\Recursividad_interativa.pdb
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.csproj.AssemblyReference.cache
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.AssemblyInfoInputs.cache
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.AssemblyInfo.cs
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.csproj.CoreCompileInputs.cache
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.dll
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\ref\Recursividad_interativa.dll
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.pdb
+C:\Users\Miguelangel\source\repos\ConsoleApp1\Recursividad_interativa\obj\Debug\net5.0\Recursividad_interativa.genruntimeconfig.cache

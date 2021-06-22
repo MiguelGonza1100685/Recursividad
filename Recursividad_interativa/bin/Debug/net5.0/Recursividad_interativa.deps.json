@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Recursividad_interativa/1.0.0": {
+        "runtime": {
+          "Recursividad_interativa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursividad_interativa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

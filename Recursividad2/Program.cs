@@ -10,6 +10,48 @@ namespace Recursividad2
             Console.WriteLine(Sum(5).ToString());
             Console.WriteLine(Fact(10).ToString());
             Console.WriteLine(Mcd(5,10).ToString());
+            Console.WriteLine(Fact_T(11, 1).ToString());
+            Console.WriteLine(Sum_T(11, 2).ToString());
+
+        }
+
+        private static long Sum_T(int v1, int v2)
+        {
+
+            if (v1 == 0)
+            {
+
+                return v2;
+
+
+            }
+            else
+            {
+                return Sum_T(v1 - 1, v1 + v2);
+            }
+
+
+
+        }
+
+        private static long Fact_T(int v1, int v2)
+        {
+            if (v1 == 0)
+            {
+
+                return v2;
+
+
+            }
+            else
+            {
+
+                return Fact_T(v1 - 1, v1 * v2);
+
+            }
+
+
+
 
 
         }
