@@ -1,0 +1,16 @@
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\Recursividad2.exe
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\Recursividad2.deps.json
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\Recursividad2.runtimeconfig.json
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\Recursividad2.runtimeconfig.dev.json
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\Recursividad2.dll
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\ref\Recursividad2.dll
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\bin\Debug\net5.0\Recursividad2.pdb
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.csproj.AssemblyReference.cache
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.AssemblyInfoInputs.cache
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.AssemblyInfo.cs
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.csproj.CoreCompileInputs.cache
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.dll
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\ref\Recursividad2.dll
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.pdb
+C:\Users\Miguelangel\Desktop\Recursividad2\Recursividad2\obj\Debug\net5.0\Recursividad2.genruntimeconfig.cache
